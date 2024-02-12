@@ -6,6 +6,20 @@ __pycache__/
 # fichier mac
 .DS_Store
 
+
+
+##
+DCGAN/logs
+DCGAN/dataset
+
+##
+simpleGAN/runs
+simpleGAN/dataset
+
+##
+VAE/dataser
+
+
 # Distribution / packaging
 .Python
 build/
