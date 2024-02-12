@@ -13,7 +13,7 @@ This repository contain some of the important generative architecture  models im
 To see result of training on tensorboard in real time : 
 
 ````
-tensorboard --logdir=runs
+tensorboard --logdir="directory logs tensorboad name"
 ````
 You should have tensorboard installed and added to PATH environnement 
 
@@ -21,7 +21,14 @@ You should have tensorboard installed and added to PATH environnement
 
 Tariq CHELLALI
 
-## Licence
+
+## Contribute
+
+This tutorial may contain errors, inaccuracies, typos or areas for improvement. Feel free to contribute to its improvement by opening an issue.
+
+## License 
+
+MIT
 
 
 
